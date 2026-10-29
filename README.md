@@ -22,7 +22,7 @@ Everything runs in the browser. Photos and music never leave the visitor's devic
 1. Create a new public repository on GitHub, e.g. `ascii-portrait`.
 2. Upload `index.html` and `README.md` (**Add file → Upload files → Commit**).
 3. Go to **Settings → Pages**. Under **Build and deployment**, set Source to **Deploy from a branch**, then Branch to **main** and folder to **/ (root)**, then **Save**.
-4. After a minute or two the site is live at `https://<your-username>.github.io/ascii-portrait/`.
+4. After a minute or two the site is live at `https://Kafish69.github.io/ascii-portrait/`.
 
 Or from a terminal:
 
@@ -31,7 +31,7 @@ git init
 git add index.html README.md
 git commit -m "ASCII portrait"
 git branch -M main
-git remote add origin https://github.com/<your-username>/ascii-portrait.git
+git remote add origin https://github.com/Kafish69/ascii-portrait.git
 git push -u origin main
 ```
 
